@@ -1,0 +1,19 @@
+event_id,longitude,latitude,datetime,street,type,agency,city,neighborhood,zipcode,day_of_week
+465,-118.122867,34.071803,8/7/17 3:58,I10 W / Garfield Ave,CFIRE-Car Fire,CHP-LA,East LA,alhambra,91801,1
+15,-118.740245,34.143058,4/8/17 10:22,Us101 E / Chesebro Rd,1125-Traffic Hazard,CHP-LA,LAFSP,agoura-hills,91301,6
+124477,-118.779521,34.147265,7/19/17 11:25,SR-101,,Caltrans-D7,AGOURA HILLS,agoura-hills,91301,3
+255,-118.233242,34.073814,6/20/17 14:39,Sr110 N / Tunnel 1,1125-Traffic Hazard,CHP-LA,LAFSP,elysian-park,90012,2
+1248,-118.235397,34.071343,7/17/17 10:07,Sr110 S / Stadium Way,JUMPER,CHP-LA,Central LA,elysian-park,90012,1
+123766,-118.315757,34.472067,4/10/17 11:26,SR-14,,Caltrans-D7,LOS ANGELES CO,agua-dulce,91390,1
+2491,-118.327752,33.894646,8/2/17 14:54,3138 Marine Ave,20002-Hit and Run No Injuries,CHP-LA,South LA,alondra-park,90249,3
+123505,-118.126585,33.875883,3/6/17 19:43,SR-91,,Caltrans-D7,BELLFLOWER,bellflower,90706,1
+123322,-118.316643,34.101872,2/6/17 8:16,SR-101,,Caltrans-D7,LOS ANGELES,hollywood,90028,1
+3556,-118.329587,34.035138,2/11/17 18:37,0 I10 E,1182-Trfc Collision-No Inj,CHP-LA,Central LA,jefferson-park,90018,6
+126,-118.333697,34.034948,4/23/17 0:27,I10 E / Crenshaw Blvd,JUMPER,CHP-LA,Central LA,jefferson-park,90018,0
+223,-118.317611,34.036589,11/22/17 14:24,I10 E / Arlington Ave,1182-Trfc Collision-No Inj,CHP-LA,LAFSP,jefferson-park,90018,3
+1634,-118.20394,33.86241,4/14/17 12:18,S Susana Rd / E Ana St,SIG Alert,CHP-LA,South LA,rancho-dominguez,90221,5
+2668,-118.475191,34.088608,10/6/17 15:58,I405 N / Getty Center Dr,SIG Alert,CHP-LA,LA,bel-air,90049,5
+717,-118.163596,33.975483,6/27/17 7:45,Gage Ave / Eastern Ave,FIRE-Report of Fire,CHP-LA,LA,bell-gardens,90201,2
+3841,-118.377543,34.0368,8/4/17 20:34,I10 E / La Cienega Blvd,1182-Trfc Collision-No Inj,CHP-LA,West LA,mid-city,90034,5
+1229,-118.390415,34.031015,9/21/17 10:03,I10 E / National Blvd,1125-Traffic Hazard,CHP-LA,West LA,mid-city,90034,4
+102,-118.274482,34.027452,1/19/17 8:48,I110 N / W Adams Blvd,1125-Traffic Hazard,CHP-LA,LAFSP,university-park,90007,4
